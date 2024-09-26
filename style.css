@@ -1,0 +1,25 @@
+.gradient-background {
+    background: linear-gradient(300deg, #6f00ff, #4caeff, #72ef8d);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+
+.d-block{
+    border-radius: 50%;
+}
+
+.img-svg{
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+.email{
+    height: 19px;
+}
+
+.fonkoze-logo{
+    height: 12rem;
+    margin-top: 10px;
+    margin-right: 13px;
+}
